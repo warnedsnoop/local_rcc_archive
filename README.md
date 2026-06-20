@@ -1,6 +1,7 @@
 # archive of local_rcc as the original repo files were taken off github
 # 🏠 local_rcc
 
+*please do not try to contact me asking how to set this up if you read the guide properly you shouldnt need any help*
 *Selfhosted game servers for the latest versions of Roblox.*
 
 **local_rcc** is a library that works with Roblox Studio (currently Windows only)
