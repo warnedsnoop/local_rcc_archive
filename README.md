@@ -22,7 +22,7 @@ Make sure you have the following prerequisites:
 
 Clone the repository:
 ```
-git clone https://github.com/rsblox/local_rcc.git](https://github.com/warnedsnoop/local_rcc_archive.git
+git clone https://github.com/warnedsnoop/local_rcc_archive.git
 ```
 
 There are two methods for building:
