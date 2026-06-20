@@ -20,10 +20,10 @@ Make sure you have the following prerequisites:
 
 ---
 
-Clone the repository:
-```
+Clone the repsitory:
+
 git clone https://github.com/warnedsnoop/local_rcc_archive.git
-```
+
 
 There are two methods for building:
 
